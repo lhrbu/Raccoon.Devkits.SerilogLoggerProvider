@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Raccoon.Devkits.SerilogLoggerProvider", "Raccoon.Devkits.SerilogLoggerProvider\Raccoon.Devkits.SerilogLoggerProvider.csproj", "{349A2331-2442-4BE6-9922-38CD19909E36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Raccoon.Devkits.SerilogLoggerProvider.Test", "Raccoon.Devkits.SerilogLoggerProvider.Test\Raccoon.Devkits.SerilogLoggerProvider.Test.csproj", "{289CFEB7-0A4A-4654-8761-111E15B26D8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{349A2331-2442-4BE6-9922-38CD19909E36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{349A2331-2442-4BE6-9922-38CD19909E36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{349A2331-2442-4BE6-9922-38CD19909E36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{349A2331-2442-4BE6-9922-38CD19909E36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{289CFEB7-0A4A-4654-8761-111E15B26D8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{289CFEB7-0A4A-4654-8761-111E15B26D8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{289CFEB7-0A4A-4654-8761-111E15B26D8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{289CFEB7-0A4A-4654-8761-111E15B26D8F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {497431A8-56AC-416B-A286-10F6CFC7F5A0}
+	EndGlobalSection
+EndGlobal
